@@ -1,0 +1,4 @@
+branch_id,branch_name,location_tier,performance_score,risk_score,revenue,profit_margin,cost_ratio,primary_issue
+1,Mombasa,Coastal,65,80,25000000,0.05,0.45,low_demand
+2,Nakuru,Upscale,60,75,30000000,0.04,0.48,high_costs
+3,Eldoret,Regional,55,85,20000000,0.03,0.50,volatility
